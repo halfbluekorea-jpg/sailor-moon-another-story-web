@@ -1,0 +1,7 @@
+*.sfc
+*.smc
+*.state
+*.sav
+*saves*.json
+*.zip
+.DS_Store
