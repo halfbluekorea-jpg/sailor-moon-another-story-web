@@ -1,4 +1,5 @@
 *.sfc
+!game-ko.sfc
 *.smc
 *.state
 *.sav
